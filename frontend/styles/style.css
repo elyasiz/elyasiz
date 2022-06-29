@@ -1140,7 +1140,7 @@ video:focus{
 
 .social {
   position:fixed;
-  height: 150vh;
+  height: 160vh;
   display:flex;
   flex-direction: column;
   justify-content: center;
